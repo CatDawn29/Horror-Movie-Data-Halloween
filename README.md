@@ -1,3 +1,3 @@
 # Horror Movie Data
  
-I decided to start this repository because I am a fan of horror films, espically slasher films. I wanted to see the difference between slasher films and other films of horror. 
+Ever since I can remember, movies have always been a part of my childhood. I started getting into horror films when I was a teenager and I started becoming a fan of slasher films in my twenties. I would like to see if there is much of a difference between slasher films and other types of horror films. 
