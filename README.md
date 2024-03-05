@@ -1,3 +1,2 @@
-# Horror Movie Data
- 
-Ever since I can remember, movies have always been a part of my childhood. I started getting into horror films when I was a teenager and I started becoming a fan of slasher films in my twenties. I would like to see if there is much of a difference between slasher films and other types of horror films. 
+
+As a cinephile with a deep appreciation for the art of filmmaking, I've long been intrigued by the nuances of horror cinema. From my formative years to my current passion, I've observed the evolution of the genre, particularly focusing on the subgenre of slasher films. Now, leveraging my analytical skills, I aim to delve into horror movie data to discern any discernible patterns or distinctions between slasher films and other categories within the genre. This exploration presents an opportunity to gain valuable insights into audience preferences, genre trends, and potentially inform strategic decisions within our entertainment ventures.
